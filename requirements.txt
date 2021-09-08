@@ -1,1 +1,2 @@
 nltk==3.4
+matplotlib==2.2.4
