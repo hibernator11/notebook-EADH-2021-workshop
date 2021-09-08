@@ -17,3 +17,6 @@ These examples are based on the dataset 'A Medical History of British India' pro
 - https://nbviewer.jupyter.org/
 - https://mybinder.org/
 - https://www.nltk.org/
+
+## Suggested citation
+Anna Bukhtoyarova, Mikhail Bukhtoyarov, Gustavo Candela, Milena Dobreva, & Sally Chambers. (2021). hibernator11/notebook-EADH-2021-workshop: Release 1.0 (Version T1). Zenodo. https://doi.org/10.5281/zenodo.5495619
