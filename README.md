@@ -3,6 +3,7 @@ Collection of Jupyter Notebooks for the workshop EADH 2021
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hibernator11/notebook-EADH-2021-workshop/HEAD)
 
+View in NBViewer https://nbviewer.jupyter.org/github/hibernator11/notebook-EADH-2021-workshop/tree/main/
 
 ## References
 - GLAM Workbench. https://glam-workbench.net/
