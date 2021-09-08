@@ -5,6 +5,8 @@ Collection of Jupyter Notebooks for the workshop EADH 2021
 
 View in NBViewer https://nbviewer.jupyter.org/github/hibernator11/notebook-EADH-2021-workshop/tree/main/
 
+These examples are based on the dataset 'A Medical History of British India' provided by the Data Foundry. https://data.nls.uk/data/digitised-collections/a-medical-history-of-british-india/
+
 ## References
 - GLAM Workbench. https://glam-workbench.net/
 - Collections as Data. https://collectionsasdata.github.io/
