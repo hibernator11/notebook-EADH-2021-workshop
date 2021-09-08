@@ -1,5 +1,8 @@
 # notebook-EADH-2021-workshop
-notebook-EADH-2021-workshop
+Collection of Jupyter Notebooks for the workshop EADH 2021 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hibernator11/notebook-EADH-2021-workshop/HEAD)
+
 
 ## References
 GLAM Workbench. https://glam-workbench.net/
