@@ -3,9 +3,17 @@ Collection of Jupyter Notebooks for the workshop EADH 2021
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hibernator11/notebook-EADH-2021-workshop/HEAD)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5495619.svg)](https://doi.org/10.5281/zenodo.5495619)
+
+
 View in NBViewer https://nbviewer.jupyter.org/github/hibernator11/notebook-EADH-2021-workshop/tree/main/
 
+## A Medical History of British India
 These examples are based on the dataset 'A Medical History of British India' provided by the Data Foundry. https://data.nls.uk/data/digitised-collections/a-medical-history-of-british-india/
+
+## Data from FantLab Library (https://fantlab.ru/)
+A CSV dataset created using data from FantLab Library and available at https://www.kaggle.com/karinaagafonova/fantlab-library/version/1?select=FantLab+data+-+for+Kaggle.csv
+
 
 ## References
 - GLAM Workbench. https://glam-workbench.net/
