@@ -11,6 +11,10 @@ View in NBViewer https://nbviewer.jupyter.org/github/hibernator11/notebook-EADH-
 ## A Medical History of British India
 These examples are based on the dataset 'A Medical History of British India' provided by the Data Foundry. https://data.nls.uk/data/digitised-collections/a-medical-history-of-british-india/
 
+## Data from RusAge
+A CSV dataset created using data from RusAge (a corpus for Age-Based Text Classification Russian fiction books' previews with age rating labels) available at https://www.kaggle.com/oldaandozerskaya/fiction-corpus-for-agebased-text-classification
+
+
 ## Data from FantLab Library (https://fantlab.ru/)
 A CSV dataset created using data from FantLab Library and available at https://www.kaggle.com/karinaagafonova/fantlab-library/version/1?select=FantLab+data+-+for+Kaggle.csv
 
