@@ -13,7 +13,7 @@ These examples are based on the dataset ['A Medical History of British India'](h
 
 The examples include the following Jupyter notebooks:
 
-- Exploring the CSV file [Preview](https://nbviewer.jupyter.org/github/hibernator11/notebook-EADH-2021-workshop/blob/main/Exploring_Medical_History_of_British_India-csvfile.ipynb)
+- Exploring the [CSV file](nls-text-indiaPapers/indiaPapers-inventory.csv) [Preview](https://nbviewer.jupyter.org/github/hibernator11/notebook-EADH-2021-workshop/blob/main/Exploring_Medical_History_of_British_India-csvfile.ipynb)
 - Frequency Distribution Plot [Preview](https://nbviewer.jupyter.org/github/hibernator11/notebook-EADH-2021-workshop/blob/main/Exploring_Medical_History_of_British_India-freq.ipynb)
 - Frequency Distribution Plot using stopwords [Preview](https://nbviewer.jupyter.org/github/hibernator11/notebook-EADH-2021-workshop/blob/main/Exploring_Medical_History_of_British_India-freq-v2.ipynb)
 - Fulltext search example [Preview](https://nbviewer.jupyter.org/github/hibernator11/notebook-EADH-2021-workshop/blob/main/Exploring_Medical_History_of_British_India-search.ipynb)
