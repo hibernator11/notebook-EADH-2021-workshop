@@ -20,7 +20,7 @@ The examples include the following Jupyter notebooks:
 
 
 ## Data from RusAge
-A CSV dataset created using data from [RusAge](https://www.kaggle.com/oldaandozerskaya/fiction-corpus-for-agebased-text-classification) (a corpus for Age-Based Text Classification Russian fiction books' previews with age rating labels) available at. The corpus consists of 5592 texts of children’s and adult book previews (the folder "previews"). The corresponded book abstracts are placed in the folder "abstracts". The "Train" and "Test" folders contain train and test samples used in experiments. The file called ["descriptions.csv"](RusAge.csv) contains the description of our data and text age ratings.
+A CSV dataset created using data from [RusAge](https://www.kaggle.com/oldaandozerskaya/fiction-corpus-for-agebased-text-classification), a corpus for Age-Based Text Classification Russian fiction books' previews with age rating labels. The corpus consists of 5592 texts of children’s and adult book previews (the folder "previews"). The corresponded book abstracts are placed in the folder "abstracts". The "Train" and "Test" folders contain train and test samples used in experiments. The file called ["descriptions.csv"](RusAge.csv) contains the description of our data and text age ratings.
 
 The examples include the following Jupyter notebooks:
 
