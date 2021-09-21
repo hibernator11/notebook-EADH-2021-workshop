@@ -27,11 +27,12 @@ The examples include the following Jupyter notebooks:
 - Exploring the [CSV file](RusAge.csv) RusAge.csv [Preview](https://nbviewer.jupyter.org/github/hibernator11/notebook-EADH-2021-workshop/blob/main/Exploring_RusAge-csvfile.ipynb)
 - Fulltext search example [Preview](https://nbviewer.jupyter.org/github/hibernator11/notebook-EADH-2021-workshop/blob/main/Exploring_RusAge-search.ipynb)
 
-
-
-
 ## Data from FantLab Library (https://fantlab.ru/)
-A CSV dataset created using data from FantLab Library and available at https://www.kaggle.com/karinaagafonova/fantlab-library/version/1?select=FantLab+data+-+for+Kaggle.csv
+A [CSV dataset](FantLab-data-Kaggle.csv) created using data from FantLab Library and [available online](https://www.kaggle.com/karinaagafonova/fantlab-library/version/1?select=FantLab+data+-+for+Kaggle.csv). The data is based on 11 genres from FantLab Library (https://fantlab.ru/) including the title, author, year of publication, the language of the publication, main characteristics, genre, subgenre, place of action, time of action, plot goal, plot linearity, recommended age, annotation, total voters, total votes, average rating, gender and age histograms.
+
+The examples include the following Jupyter notebooks:
+
+- Exploring the [CSV file](FantLab-data-Kaggle.csv) RusAge.csv [Preview](RusAge.csv)
 
 
 ## References
