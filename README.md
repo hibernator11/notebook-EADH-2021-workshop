@@ -11,6 +11,9 @@ Collection of Jupyter Notebooks for the workshop EADH 2021
 ## A Medical History of British India
 These examples are based on the dataset ['A Medical History of British India'](https://data.nls.uk/data/digitised-collections/a-medical-history-of-british-india/) provided by the [Data Foundry](https://data.nls.uk). It uses the trial data version of the dataset (15.5 MB compressed).
 
+
+<button name="button" onclick="http://www.google.com">Click me</button>
+
 The examples include the following Jupyter notebooks:
 
 - Exploring the [CSV file](nls-text-indiaPapers/indiaPapers-inventory.csv) [Preview](https://nbviewer.jupyter.org/github/hibernator11/notebook-EADH-2021-workshop/blob/main/Exploring_Medical_History_of_British_India-csvfile.ipynb)
