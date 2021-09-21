@@ -6,7 +6,7 @@ Collection of Jupyter Notebooks for the workshop EADH 2021
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5495619.svg)](https://doi.org/10.5281/zenodo.5495619)
 
 
-View in NBViewer https://nbviewer.jupyter.org/github/hibernator11/notebook-EADH-2021-workshop/tree/main/
+[NBViewer](https://nbviewer.jupyter.org/github/hibernator11/notebook-EADH-2021-workshop/tree/main/)
 
 ## A Medical History of British India
 These examples are based on the dataset ['A Medical History of British India'](https://data.nls.uk/data/digitised-collections/a-medical-history-of-british-india/) provided by the Data Foundry. It uses the trial data version of the dataset (15.5 MB compressed).
