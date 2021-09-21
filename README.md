@@ -9,7 +9,7 @@ Collection of Jupyter Notebooks for the workshop EADH 2021
 [NBViewer](https://nbviewer.jupyter.org/github/hibernator11/notebook-EADH-2021-workshop/tree/main/)
 
 ## A Medical History of British India
-These examples are based on the dataset ['A Medical History of British India'](https://data.nls.uk/data/digitised-collections/a-medical-history-of-british-india/) provided by the [Data Foundry](https://data.nls.uk). It uses the trial data version of the dataset (15.5 MB compressed).
+These examples are based on the dataset ['A Medical History of British India'](https://data.nls.uk/data/digitised-collections/a-medical-history-of-british-india/) provided by the [Data Foundry](https://data.nls.uk). It uses the trial data version of the dataset (15.5 MB compressed). This dataset forms the first half of the Medical History of British India collection, which itself is part of the broader India Papers collection held by the Library.
 
 The examples include the following Jupyter notebooks:
 
@@ -20,7 +20,7 @@ The examples include the following Jupyter notebooks:
 
 
 ## Data from RusAge
-A CSV dataset created using data from RusAge (a corpus for Age-Based Text Classification Russian fiction books' previews with age rating labels) available at https://www.kaggle.com/oldaandozerskaya/fiction-corpus-for-agebased-text-classification
+A CSV dataset created using data from [RusAge](https://www.kaggle.com/oldaandozerskaya/fiction-corpus-for-agebased-text-classification) (a corpus for Age-Based Text Classification Russian fiction books' previews with age rating labels) available at. The corpus consists of 5592 texts of children’s and adult book previews (the folder "previews"). The corresponded book abstracts are placed in the folder "abstracts". The "Train" and "Test" folders contain train and test samples used in experiments. The file called ["descriptions.csv"](RusAge.csv) contains the description of our data and text age ratings.
 
 
 ## Data from FantLab Library (https://fantlab.ru/)
