@@ -32,7 +32,7 @@ A [CSV dataset](FantLab-data-Kaggle.csv) created using data from FantLab Library
 
 The examples include the following Jupyter notebooks:
 
-- Exploring the [CSV file](FantLab-data-Kaggle.csv) RusAge.csv [Preview](RusAge.csv)
+- Exploring the [CSV file](FantLab-data-Kaggle.csv) RusAge.csv [Preview](https://nbviewer.jupyter.org/github/hibernator11/notebook-EADH-2021-workshop/blob/main/Exploring_FantLab-csvfile.ipynb)
 
 
 ## References
